@@ -8,9 +8,6 @@ importers:
 
   .:
     dependencies:
-      font-awesome:
-        specifier: ^4.7.0
-        version: 4.7.0
       react:
         specifier: ^18.3.1
         version: 18.3.1
@@ -730,10 +727,6 @@ packages:
 
   flatted@3.3.2:
     resolution: {integrity: sha512-AiwGJM8YcNOaobumgtng+6NHuOqC3A7MixFeDafM3X9cIUM+xUXoS5Vfgf+OihAYe20fxqNM9yPBXJzRtZ/4eA==}
-
-  font-awesome@4.7.0:
-    resolution: {integrity: sha512-U6kGnykA/6bFmg1M/oT9EkFeIYv7JlX3bozwQJWiiLz6L0w3F5vBVPxHlwyX/vtNq1ckcpRKOB9f2Qal/VtFpg==}
-    engines: {node: '>=0.10.3'}
 
   for-each@0.3.3:
     resolution: {integrity: sha512-jqYfLp7mo9vIyQf8ykW2v7A+2N4QjeCeI5+Dz9XraiO1ign81wjiH7Fb9vSOWvQfNtmSa4H2RoQTrrXivdUZmw==}
@@ -2044,8 +2037,6 @@ snapshots:
       keyv: 4.5.4
 
   flatted@3.3.2: {}
-
-  font-awesome@4.7.0: {}
 
   for-each@0.3.3:
     dependencies:
